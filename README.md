@@ -81,6 +81,7 @@ List of completed LeetCode exercises grouped by week.
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 | 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
 | 876 | Middle of the Linked List | **Easy** | [Code](./Practice/0876-middle-of-the-linked-list) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 921 | Minimum Add to Make Parentheses Valid | **Medium** | [Code](./Practice/0921-minimum-add-to-make-parentheses-valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 | 1021 | Remove Outermost Parentheses | **Easy** | [Code](./Practice/1021-remove-outermost-parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) |
 | 1370 | Increasing Decreasing String | **Easy** | [Code](./Practice/1370-increasing-decreasing-string) | [LeetCode](https://leetcode.com/problems/increasing-decreasing-string/) |
 | 1974 | Minimum Time to Type Word Using Special Typewriter | **Easy** | [Code](./Practice/1974-minimum-time-to-type-word-using-special-typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |
@@ -91,13 +92,13 @@ List of completed LeetCode exercises grouped by week.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
