@@ -87,3 +87,23 @@ List of completed LeetCode exercises grouped by week.
 | 1974 | Minimum Time to Type Word Using Special Typewriter | **Easy** | [Code](./Practice/1974-minimum-time-to-type-word-using-special-typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |
 | 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0547-number-of-provinces/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0547-number-of-provinces/) | Medium |
+<!---LeetCode Topics End-->
