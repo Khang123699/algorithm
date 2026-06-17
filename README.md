@@ -109,10 +109,12 @@ List of completed LeetCode exercises grouped by week.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
