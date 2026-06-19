@@ -76,8 +76,10 @@ List of completed LeetCode exercises grouped by week.
 | 83 | Remove Duplicates from Sorted List | **Easy** | [Code](./Practice/0083-remove-duplicates-from-sorted-list) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 160 | Intersection of Two Linked Lists | **Easy** | [Code](./Practice/0160-intersection-of-two-linked-lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 206 | Reverse Linked List | **Easy** | [Code](./Practice/0206-reverse-linked-list) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
+| 209 | Minimum Size Subarray Sum | **Medium** | [Code](./Practice/0209-minimum-size-subarray-sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 495 | Teemo Attacking | **Easy** | [Code](./Practice/0495-teemo-attacking) | [LeetCode](https://leetcode.com/problems/teemo-attacking/) |
 | 496 | Next Greater Element I | **Easy** | [Code](./Practice/0496-next-greater-element-i) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) |
+| 547 | Number of Provinces | **Medium** | [Code](./Practice/0547-number-of-provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) |
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 | 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
 | 876 | Middle of the Linked List | **Easy** | [Code](./Practice/0876-middle-of-the-linked-list) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
@@ -88,45 +90,3 @@ List of completed LeetCode exercises grouped by week.
 | 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0547-number-of-provinces](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0547-number-of-provinces/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0547-number-of-provinces](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0547-number-of-provinces/) | Medium |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0547-number-of-provinces](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0547-number-of-provinces/) | Medium |
-## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0547-number-of-provinces](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0547-number-of-provinces/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-| [0209-minimum-size-subarray-sum](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-| [0209-minimum-size-subarray-sum](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-<!---LeetCode Topics End-->
