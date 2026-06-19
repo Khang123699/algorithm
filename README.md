@@ -100,9 +100,22 @@ List of completed LeetCode exercises grouped by week.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
