@@ -109,6 +109,7 @@ List of completed LeetCode exercises grouped by week.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Binary Search
@@ -124,4 +125,8 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
