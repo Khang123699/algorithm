@@ -112,4 +112,16 @@ List of completed LeetCode exercises grouped by week.
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0226-invert-binary-tree/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0053-maximum-subarray/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
