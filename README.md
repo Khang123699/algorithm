@@ -116,6 +116,7 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0053-maximum-subarray/) | Medium |
+| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0539-minimum-time-difference/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +125,16 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0053-maximum-subarray/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0539-minimum-time-difference/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0539-minimum-time-difference/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0539-minimum-time-difference/) | Medium |
 <!---LeetCode Topics End-->
