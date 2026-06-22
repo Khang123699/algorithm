@@ -68,6 +68,13 @@ List of completed LeetCode exercises grouped by week.
 | 994 | Rotting Oranges | **Medium** | [Code](./Week%205/0994-rotting-oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) |
 | 1926 | Nearest Exit From Entrance In Maze | **Medium** | [Code](./Week%205/1926-nearest-exit-from-entrance-in-maze) | [LeetCode](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) |
 
+## Week 6
+
+| ID | Title | Difficulty | Path | LeetCode Link |
+| :--- | :--- | :--- | :--- | :--- |
+| 104 | Maximum Depth Of Binary Tree | **Easy** | [Code](./Week%206/0104-maximum-depth-of-binary-tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 226 | Invert Binary Tree | **Easy** | [Code](./Week%206/0226-invert-binary-tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) |
+
 ## Practice
 
 | ID | Title | Difficulty | Path | LeetCode Link |
