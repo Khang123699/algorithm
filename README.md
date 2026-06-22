@@ -99,3 +99,4 @@ List of completed LeetCode exercises grouped by week.
 | 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
 
 
+
