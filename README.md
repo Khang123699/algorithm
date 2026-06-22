@@ -73,12 +73,14 @@ List of completed LeetCode exercises grouped by week.
 | ID | Title | Difficulty | Path | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 26 | Remove Duplicates from Sorted Array | **Easy** | [Code](./Practice/0026-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 53 | Maximum Subarray | **Medium** | [Code](./Practice/0053-maximum-subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |
 | 83 | Remove Duplicates from Sorted List | **Easy** | [Code](./Practice/0083-remove-duplicates-from-sorted-list) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 160 | Intersection of Two Linked Lists | **Easy** | [Code](./Practice/0160-intersection-of-two-linked-lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 206 | Reverse Linked List | **Easy** | [Code](./Practice/0206-reverse-linked-list) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
 | 209 | Minimum Size Subarray Sum | **Medium** | [Code](./Practice/0209-minimum-size-subarray-sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 495 | Teemo Attacking | **Easy** | [Code](./Practice/0495-teemo-attacking) | [LeetCode](https://leetcode.com/problems/teemo-attacking/) |
 | 496 | Next Greater Element I | **Easy** | [Code](./Practice/0496-next-greater-element-i) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) |
+| 539 | Minimum Time Difference | **Medium** | [Code](./Practice/0539-minimum-time-difference) | [LeetCode](https://leetcode.com/problems/minimum-time-difference/) |
 | 547 | Number of Provinces | **Medium** | [Code](./Practice/0547-number-of-provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) |
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 | 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
@@ -115,26 +117,26 @@ List of completed LeetCode exercises grouped by week.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0053-maximum-subarray/) | Medium |
-| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0539-minimum-time-difference/) | Medium |
+| [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0053-maximum-subarray/) | Medium |
+| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0539-minimum-time-difference/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0053-maximum-subarray/) | Medium |
+| [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0053-maximum-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0053-maximum-subarray/) | Medium |
+| [0053-maximum-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0053-maximum-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0539-minimum-time-difference/) | Medium |
+| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0539-minimum-time-difference/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0539-minimum-time-difference/) | Medium |
+| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0539-minimum-time-difference/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0539-minimum-time-difference/) | Medium |
+| [0539-minimum-time-difference](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0539-minimum-time-difference/) | Medium |
 <!---LeetCode Topics End-->
