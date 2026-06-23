@@ -100,3 +100,27 @@ List of completed LeetCode exercises grouped by week.
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
+<!---LeetCode Topics End-->
