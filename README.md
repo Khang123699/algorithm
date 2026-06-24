@@ -107,6 +107,7 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
+| [0986-interval-list-intersections](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0986-interval-list-intersections/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +124,12 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0986-interval-list-intersections/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
