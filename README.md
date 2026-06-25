@@ -108,6 +108,7 @@ List of completed LeetCode exercises grouped by week.
 | ------- | ------- |
 | [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0986-interval-list-intersections/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +133,12 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0986-interval-list-intersections/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 <!---LeetCode Topics End-->
