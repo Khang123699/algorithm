@@ -112,6 +112,7 @@ List of completed LeetCode exercises grouped by week.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ List of completed LeetCode exercises grouped by week.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0986-interval-list-intersections/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
@@ -141,4 +143,8 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
