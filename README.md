@@ -80,9 +80,11 @@ List of completed LeetCode exercises grouped by week.
 
 | ID | Title | Difficulty | Path | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 24 | Swap Nodes in Pairs | **Medium** | [Code](./Practice/0024-swap-nodes-in-pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
 | 26 | Remove Duplicates from Sorted Array | **Easy** | [Code](./Practice/0026-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 53 | Maximum Subarray | **Medium** | [Code](./Practice/0053-maximum-subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |
 | 83 | Remove Duplicates from Sorted List | **Easy** | [Code](./Practice/0083-remove-duplicates-from-sorted-list) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+| 142 | Linked List Cycle II | **Medium** | [Code](./Practice/0142-linked-list-cycle-ii) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) |
 | 160 | Intersection of Two Linked Lists | **Easy** | [Code](./Practice/0160-intersection-of-two-linked-lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 206 | Reverse Linked List | **Easy** | [Code](./Practice/0206-reverse-linked-list) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
 | 209 | Minimum Size Subarray Sum | **Medium** | [Code](./Practice/0209-minimum-size-subarray-sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
@@ -90,15 +92,14 @@ List of completed LeetCode exercises grouped by week.
 | 496 | Next Greater Element I | **Easy** | [Code](./Practice/0496-next-greater-element-i) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) |
 | 539 | Minimum Time Difference | **Medium** | [Code](./Practice/0539-minimum-time-difference) | [LeetCode](https://leetcode.com/problems/minimum-time-difference/) |
 | 547 | Number of Provinces | **Medium** | [Code](./Practice/0547-number-of-provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) |
+| 707 | Design Linked List | **Medium** | [Code](./Practice/0707-design-linked-list) | [LeetCode](https://leetcode.com/problems/design-linked-list/) |
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 | 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
 | 876 | Middle of the Linked List | **Easy** | [Code](./Practice/0876-middle-of-the-linked-list) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 921 | Minimum Add to Make Parentheses Valid | **Medium** | [Code](./Practice/0921-minimum-add-to-make-parentheses-valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
+| 986 | Interval List Intersections | **Medium** | [Code](./Practice/0986-interval-list-intersections) | [LeetCode](https://leetcode.com/problems/interval-list-intersections/) |
 | 1021 | Remove Outermost Parentheses | **Easy** | [Code](./Practice/1021-remove-outermost-parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) |
 | 1370 | Increasing Decreasing String | **Easy** | [Code](./Practice/1370-increasing-decreasing-string) | [LeetCode](https://leetcode.com/problems/increasing-decreasing-string/) |
+| 1381 | Design a Stack With Increment Operation | **Medium** | [Code](./Practice/1381-design-a-stack-with-increment-operation) | [LeetCode](https://leetcode.com/problems/design-a-stack-with-increment-operation/) |
 | 1974 | Minimum Time to Type Word Using Special Typewriter | **Easy** | [Code](./Practice/1974-minimum-time-to-type-word-using-special-typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |
 | 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
-
-
-
-
