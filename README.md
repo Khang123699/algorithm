@@ -65,6 +65,7 @@ List of completed LeetCode exercises grouped by week.
 | 463 | Island Perimeter | **Easy** | [Code](./Week%205/0463-island-perimeter) | [LeetCode](https://leetcode.com/problems/island-perimeter/) |
 | 542 | 01 Matrix | **Medium** | [Code](./Week%205/0542-01-matrix) | [LeetCode](https://leetcode.com/problems/01-matrix/) |
 | 559 | Maximum Depth Of N-ary Tree | **Easy** | [Code](./Week%205/0559-maximum-depth-of-n-ary-tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
+| 690 | Employee Importance | **Medium** | [Code](./Week%205/0690-employee-importance) | [LeetCode](https://leetcode.com/problems/employee-importance/) |
 | 994 | Rotting Oranges | **Medium** | [Code](./Week%205/0994-rotting-oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) |
 | 1926 | Nearest Exit From Entrance In Maze | **Medium** | [Code](./Week%205/1926-nearest-exit-from-entrance-in-maze) | [LeetCode](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) |
 
@@ -101,50 +102,3 @@ List of completed LeetCode exercises grouped by week.
 
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
-| [0986-interval-list-intersections](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0986-interval-list-intersections/) | Medium |
-| [1381-design-a-stack-with-increment-operation](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0142-linked-list-cycle-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0690-employee-importance](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0690-employee-importance/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0142-linked-list-cycle-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0986-interval-list-intersections](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0986-interval-list-intersections/) | Medium |
-## Sweep Line
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0986-interval-list-intersections](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0986-interval-list-intersections/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1381-design-a-stack-with-increment-operation](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1381-design-a-stack-with-increment-operation](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0142-linked-list-cycle-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
-<!---LeetCode Topics End-->
