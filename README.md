@@ -55,6 +55,7 @@ List of completed LeetCode exercises grouped by week.
 | 875 | Koko Eating Bananas | **Medium** | [Code](./Week%204/0875-koko-eating-bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1237 | Find Positive Integer Solution For A Given Equation | **Medium** | [Code](./Week%204/1237-find-positive-integer-solution-for-a-given-equation) | [LeetCode](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) |
 | 1346 | Check If N And Its Double Exist | **Easy** | [Code](./Week%204/1346-check-if-n-and-its-double-exist) | [LeetCode](https://leetcode.com/problems/check-if-n-and-its-double-exist/) |
+| 1388 | Pizza With 3n Slices | **Hard** | [Code](./Week%204/1388-pizza-with-3n-slices) | [LeetCode](https://leetcode.com/problems/pizza-with-3n-slices/) |
 
 ## Week 5
 
@@ -104,22 +105,3 @@ List of completed LeetCode exercises grouped by week.
 | 1974 | Minimum Time to Type Word Using Special Typewriter | **Easy** | [Code](./Practice/1974-minimum-time-to-type-word-using-special-typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |
 | 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0785-is-graph-bipartite](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0785-is-graph-bipartite/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0785-is-graph-bipartite](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0785-is-graph-bipartite/) | Medium |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0785-is-graph-bipartite](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0785-is-graph-bipartite/) | Medium |
-## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0785-is-graph-bipartite](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0785-is-graph-bipartite/) | Medium |
-<!---LeetCode Topics End-->
