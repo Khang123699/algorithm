@@ -67,6 +67,7 @@ List of completed LeetCode exercises grouped by week.
 | 542 | 01 Matrix | **Medium** | [Code](./Week%205/0542-01-matrix) | [LeetCode](https://leetcode.com/problems/01-matrix/) |
 | 559 | Maximum Depth Of N-ary Tree | **Easy** | [Code](./Week%205/0559-maximum-depth-of-n-ary-tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
 | 690 | Employee Importance | **Medium** | [Code](./Week%205/0690-employee-importance) | [LeetCode](https://leetcode.com/problems/employee-importance/) |
+| 785 | Is Graph Bipartite? | **Medium** | [Code](./Week%205/0785-is-graph-bipartite) | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) |
 | 994 | Rotting Oranges | **Medium** | [Code](./Week%205/0994-rotting-oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) |
 | 1926 | Nearest Exit From Entrance In Maze | **Medium** | [Code](./Week%205/1926-nearest-exit-from-entrance-in-maze) | [LeetCode](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) |
 
@@ -84,6 +85,7 @@ List of completed LeetCode exercises grouped by week.
 | 24 | Swap Nodes in Pairs | **Medium** | [Code](./Practice/0024-swap-nodes-in-pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
 | 26 | Remove Duplicates from Sorted Array | **Easy** | [Code](./Practice/0026-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 53 | Maximum Subarray | **Medium** | [Code](./Practice/0053-maximum-subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |
+| 56 | Merge Intervals | **Medium** | [Code](./Practice/0056-merge-intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) |
 | 83 | Remove Duplicates from Sorted List | **Easy** | [Code](./Practice/0083-remove-duplicates-from-sorted-list) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 142 | Linked List Cycle II | **Medium** | [Code](./Practice/0142-linked-list-cycle-ii) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) |
 | 160 | Intersection of Two Linked Lists | **Easy** | [Code](./Practice/0160-intersection-of-two-linked-lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
