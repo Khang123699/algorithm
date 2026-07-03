@@ -93,6 +93,7 @@ List of completed LeetCode exercises grouped by week.
 | 209 | Minimum Size Subarray Sum | **Medium** | [Code](./Practice/0209-minimum-size-subarray-sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 495 | Teemo Attacking | **Easy** | [Code](./Practice/0495-teemo-attacking) | [LeetCode](https://leetcode.com/problems/teemo-attacking/) |
 | 496 | Next Greater Element I | **Easy** | [Code](./Practice/0496-next-greater-element-i) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) |
+| 503 | Next Greater Element II | **Medium** | [Code](./Practice/0503-next-greater-element-ii) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) |
 | 539 | Minimum Time Difference | **Medium** | [Code](./Practice/0539-minimum-time-difference) | [LeetCode](https://leetcode.com/problems/minimum-time-difference/) |
 | 547 | Number of Provinces | **Medium** | [Code](./Practice/0547-number-of-provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) |
 | 707 | Design Linked List | **Medium** | [Code](./Practice/0707-design-linked-list) | [LeetCode](https://leetcode.com/problems/design-linked-list/) |
@@ -113,13 +114,13 @@ List of completed LeetCode exercises grouped by week.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0503-next-greater-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0503-next-greater-element-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0503-next-greater-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0503-next-greater-element-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0503-next-greater-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
