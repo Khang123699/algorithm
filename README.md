@@ -119,9 +119,18 @@ List of completed LeetCode exercises grouped by week.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0141-linked-list-cycle/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0556-next-greater-element-iii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0556-next-greater-element-iii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0556-next-greater-element-iii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0141-linked-list-cycle/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
