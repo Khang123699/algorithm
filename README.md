@@ -137,8 +137,10 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
