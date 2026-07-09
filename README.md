@@ -87,7 +87,10 @@ List of completed LeetCode exercises grouped by week.
 | 53 | Maximum Subarray | **Medium** | [Code](./Practice/0053-maximum-subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |
 | 56 | Merge Intervals | **Medium** | [Code](./Practice/0056-merge-intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) |
 | 83 | Remove Duplicates from Sorted List | **Easy** | [Code](./Practice/0083-remove-duplicates-from-sorted-list) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+| 121 | Best Time to Buy and Sell Stock | **Easy** | [Code](./Practice/0121-best-time-to-buy-and-sell-stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 141 | Linked List Cycle | **Easy** | [Code](./Practice/0141-linked-list-cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) |
 | 142 | Linked List Cycle II | **Medium** | [Code](./Practice/0142-linked-list-cycle-ii) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) |
+| 152 | Maximum Product Subarray | **Medium** | [Code](./Practice/0152-maximum-product-subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) |
 | 160 | Intersection of Two Linked Lists | **Easy** | [Code](./Practice/0160-intersection-of-two-linked-lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 206 | Reverse Linked List | **Easy** | [Code](./Practice/0206-reverse-linked-list) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
 | 209 | Minimum Size Subarray Sum | **Medium** | [Code](./Practice/0209-minimum-size-subarray-sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
@@ -96,6 +99,8 @@ List of completed LeetCode exercises grouped by week.
 | 503 | Next Greater Element II | **Medium** | [Code](./Practice/0503-next-greater-element-ii) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) |
 | 539 | Minimum Time Difference | **Medium** | [Code](./Practice/0539-minimum-time-difference) | [LeetCode](https://leetcode.com/problems/minimum-time-difference/) |
 | 547 | Number of Provinces | **Medium** | [Code](./Practice/0547-number-of-provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) |
+| 556 | Next Greater Element III | **Medium** | [Code](./Practice/0556-next-greater-element-iii) | [LeetCode](https://leetcode.com/problems/next-greater-element-iii/) |
+| 697 | Degree of an Array | **Easy** | [Code](./Practice/0697-degree-of-an-array) | [LeetCode](https://leetcode.com/problems/degree-of-an-array/) |
 | 707 | Design Linked List | **Medium** | [Code](./Practice/0707-design-linked-list) | [LeetCode](https://leetcode.com/problems/design-linked-list/) |
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 | 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
@@ -110,37 +115,3 @@ List of completed LeetCode exercises grouped by week.
 
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0556-next-greater-element-iii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0556-next-greater-element-iii/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0141-linked-list-cycle](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0141-linked-list-cycle/) | Easy |
-| [0556-next-greater-element-iii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0556-next-greater-element-iii/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0556-next-greater-element-iii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0556-next-greater-element-iii/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0141-linked-list-cycle](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0141-linked-list-cycle/) | Easy |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0141-linked-list-cycle](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0141-linked-list-cycle/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0152-maximum-product-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0152-maximum-product-subarray/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0152-maximum-product-subarray](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0152-maximum-product-subarray/) | Medium |
-<!---LeetCode Topics End-->
