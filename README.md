@@ -113,6 +113,7 @@ List of completed LeetCode exercises grouped by week.
 | 1381 | Design a Stack With Increment Operation | **Medium** | [Code](./Practice/1381-design-a-stack-with-increment-operation) | [LeetCode](https://leetcode.com/problems/design-a-stack-with-increment-operation/) |
 | 1974 | Minimum Time to Type Word Using Special Typewriter | **Easy** | [Code](./Practice/1974-minimum-time-to-type-word-using-special-typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |
 | 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
+| 2161 | Partition Array According to Given Pivot | **Medium** | [Code](./Practice/2161-partition-array-according-to-given-pivot) | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |
 
 
 
