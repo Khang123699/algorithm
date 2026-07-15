@@ -114,6 +114,7 @@ List of completed LeetCode exercises grouped by week.
 | 1974 | Minimum Time to Type Word Using Special Typewriter | **Easy** | [Code](./Practice/1974-minimum-time-to-type-word-using-special-typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |
 | 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
 | 2161 | Partition Array According to Given Pivot | **Medium** | [Code](./Practice/2161-partition-array-according-to-given-pivot) | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |
+| 2162 | Minimum Cost to Set Cooking Time | **Medium** | [Code](./Practice/2162-minimum-cost-to-set-cooking-time) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) |
 
 
 
