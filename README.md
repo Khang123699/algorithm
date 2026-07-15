@@ -118,3 +118,15 @@ List of completed LeetCode exercises grouped by week.
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+<!---LeetCode Topics End-->
