@@ -105,6 +105,7 @@ List of completed LeetCode exercises grouped by week.
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 | 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
 | 876 | Middle of the Linked List | **Easy** | [Code](./Practice/0876-middle-of-the-linked-list) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 901 | Online Stock Span | **Medium** | [Code](./Practice/0901-online-stock-span) | [LeetCode](https://leetcode.com/problems/online-stock-span/) |
 | 921 | Minimum Add to Make Parentheses Valid | **Medium** | [Code](./Practice/0921-minimum-add-to-make-parentheses-valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 | 986 | Interval List Intersections | **Medium** | [Code](./Practice/0986-interval-list-intersections) | [LeetCode](https://leetcode.com/problems/interval-list-intersections/) |
 | 1021 | Remove Outermost Parentheses | **Easy** | [Code](./Practice/1021-remove-outermost-parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) |
