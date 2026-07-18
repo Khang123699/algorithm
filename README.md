@@ -125,8 +125,14 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
 <!---LeetCode Topics End-->
