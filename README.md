@@ -125,6 +125,7 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0853-car-fleet](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0853-car-fleet/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
@@ -140,4 +141,16 @@ List of completed LeetCode exercises grouped by week.
 | ------- | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0853-car-fleet](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0853-car-fleet/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0853-car-fleet](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0853-car-fleet/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0853-car-fleet](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0853-car-fleet/) | Medium |
 <!---LeetCode Topics End-->
