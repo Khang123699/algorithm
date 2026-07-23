@@ -95,6 +95,7 @@ List of completed LeetCode exercises grouped by week.
 | 160 | Intersection of Two Linked Lists | **Easy** | [Code](./Practice/0160-intersection-of-two-linked-lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | 206 | Reverse Linked List | **Easy** | [Code](./Practice/0206-reverse-linked-list) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
 | 209 | Minimum Size Subarray Sum | **Medium** | [Code](./Practice/0209-minimum-size-subarray-sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 229 | Majority Element II | **Medium** | [Code](./Practice/0229-majority-element-ii) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) |
 | 495 | Teemo Attacking | **Easy** | [Code](./Practice/0495-teemo-attacking) | [LeetCode](https://leetcode.com/problems/teemo-attacking/) |
 | 496 | Next Greater Element I | **Easy** | [Code](./Practice/0496-next-greater-element-i) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) |
 | 503 | Next Greater Element II | **Medium** | [Code](./Practice/0503-next-greater-element-ii) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) |
@@ -126,7 +127,7 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0033-search-in-rotated-sorted-array/) | Medium |
-| [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0229-majority-element-ii/) | Medium |
+| [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0229-majority-element-ii/) | Medium |
 | [0853-car-fleet](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0853-car-fleet/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
@@ -150,7 +151,7 @@ List of completed LeetCode exercises grouped by week.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0229-majority-element-ii/) | Medium |
+| [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0229-majority-element-ii/) | Medium |
 | [0853-car-fleet](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0853-car-fleet/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -159,9 +160,9 @@ List of completed LeetCode exercises grouped by week.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0229-majority-element-ii/) | Medium |
+| [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0229-majority-element-ii/) | Medium |
+| [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
