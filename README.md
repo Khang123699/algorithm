@@ -115,6 +115,7 @@ List of completed LeetCode exercises grouped by week.
 | 1370 | Increasing Decreasing String | **Easy** | [Code](./Practice/1370-increasing-decreasing-string) | [LeetCode](https://leetcode.com/problems/increasing-decreasing-string/) |
 | 1381 | Design a Stack With Increment Operation | **Medium** | [Code](./Practice/1381-design-a-stack-with-increment-operation) | [LeetCode](https://leetcode.com/problems/design-a-stack-with-increment-operation/) |
 | 1974 | Minimum Time to Type Word Using Special Typewriter | **Easy** | [Code](./Practice/1974-minimum-time-to-type-word-using-special-typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |
+| 2064 | Minimized Maximum of Products Distributed to Any Store | **Medium** | [Code](./Practice/2064-minimized-maximum-of-products-distributed-to-any-store) | [LeetCode](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) |
 | 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
 | 2161 | Partition Array According to Given Pivot | **Medium** | [Code](./Practice/2161-partition-array-according-to-given-pivot) | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |
 | 2162 | Minimum Cost to Set Cooking Time | **Medium** | [Code](./Practice/2162-minimum-cost-to-set-cooking-time) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) |
@@ -130,20 +131,20 @@ List of completed LeetCode exercises grouped by week.
 | [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0033-search-in-rotated-sorted-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0229-majority-element-ii/) | Medium |
 | [0853-car-fleet](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0853-car-fleet/) | Medium |
-| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0033-search-in-rotated-sorted-array/) | Medium |
-| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
