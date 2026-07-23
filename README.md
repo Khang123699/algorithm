@@ -120,6 +120,7 @@ List of completed LeetCode exercises grouped by week.
 | 2154 | Keep Multiplying Found Values by Two | **Easy** | [Code](./Practice/2154-keep-multiplying-found-values-by-two) | [LeetCode](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) |
 | 2161 | Partition Array According to Given Pivot | **Medium** | [Code](./Practice/2161-partition-array-according-to-given-pivot) | [LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |
 | 2162 | Minimum Cost to Set Cooking Time | **Medium** | [Code](./Practice/2162-minimum-cost-to-set-cooking-time) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) |
+| 2226 | Maximum Candies Allocated to K Children | **Medium** | [Code](./Practice/2226-maximum-candies-allocated-to-k-children) | [LeetCode](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) |
 
 
 
