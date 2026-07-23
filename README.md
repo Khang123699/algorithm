@@ -84,6 +84,7 @@ List of completed LeetCode exercises grouped by week.
 | :--- | :--- | :--- | :--- | :--- |
 | 24 | Swap Nodes in Pairs | **Medium** | [Code](./Practice/0024-swap-nodes-in-pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
 | 26 | Remove Duplicates from Sorted Array | **Easy** | [Code](./Practice/0026-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 33 | Search in Rotated Sorted Array | **Medium** | [Code](./Practice/0033-search-in-rotated-sorted-array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | 53 | Maximum Subarray | **Medium** | [Code](./Practice/0053-maximum-subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) |
 | 56 | Merge Intervals | **Medium** | [Code](./Practice/0056-merge-intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) |
 | 83 | Remove Duplicates from Sorted List | **Easy** | [Code](./Practice/0083-remove-duplicates-from-sorted-list) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
@@ -124,7 +125,7 @@ List of completed LeetCode exercises grouped by week.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0033-search-in-rotated-sorted-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0853-car-fleet](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0853-car-fleet/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -133,7 +134,7 @@ List of completed LeetCode exercises grouped by week.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0033-search-in-rotated-sorted-array/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2498-frog-jump-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2498-frog-jump-ii/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
