@@ -125,3 +125,19 @@ List of completed LeetCode exercises grouped by week.
 | 2594 | Minimum Time to Repair Cars | **Medium** | [Code](./Practice/2594-minimum-time-to-repair-cars) | [LeetCode](https://leetcode.com/problems/minimum-time-to-repair-cars/) |
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0633-sum-of-square-numbers/) | Medium |
+<!---LeetCode Topics End-->
