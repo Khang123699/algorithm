@@ -136,8 +136,21 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0763-partition-labels](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0763-partition-labels/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0763-partition-labels](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0763-partition-labels/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0763-partition-labels](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0763-partition-labels/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0763-partition-labels](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0763-partition-labels/) | Medium |
 <!---LeetCode Topics End-->
