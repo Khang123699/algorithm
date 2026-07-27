@@ -137,6 +137,7 @@ List of completed LeetCode exercises grouped by week.
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0763-partition-labels](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0763-partition-labels/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,4 +154,8 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0763-partition-labels](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0763-partition-labels/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
