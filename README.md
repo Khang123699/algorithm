@@ -104,6 +104,7 @@ List of completed LeetCode exercises grouped by week.
 | 539 | Minimum Time Difference | **Medium** | [Code](./Practice/0539-minimum-time-difference) | [LeetCode](https://leetcode.com/problems/minimum-time-difference/) |
 | 547 | Number of Provinces | **Medium** | [Code](./Practice/0547-number-of-provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) |
 | 556 | Next Greater Element III | **Medium** | [Code](./Practice/0556-next-greater-element-iii) | [LeetCode](https://leetcode.com/problems/next-greater-element-iii/) |
+| 633 | Sum of Square Numbers | **Medium** | [Code](./Practice/0633-sum-of-square-numbers) | [LeetCode](https://leetcode.com/problems/sum-of-square-numbers/) |
 | 697 | Degree of an Array | **Easy** | [Code](./Practice/0697-degree-of-an-array) | [LeetCode](https://leetcode.com/problems/degree-of-an-array/) |
 | 707 | Design Linked List | **Medium** | [Code](./Practice/0707-design-linked-list) | [LeetCode](https://leetcode.com/problems/design-linked-list/) |
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
