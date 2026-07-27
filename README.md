@@ -108,6 +108,7 @@ List of completed LeetCode exercises grouped by week.
 | 697 | Degree of an Array | **Easy** | [Code](./Practice/0697-degree-of-an-array) | [LeetCode](https://leetcode.com/problems/degree-of-an-array/) |
 | 707 | Design Linked List | **Medium** | [Code](./Practice/0707-design-linked-list) | [LeetCode](https://leetcode.com/problems/design-linked-list/) |
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
+| 763 | Partition Labels | **Medium** | [Code](./Practice/0763-partition-labels) | [LeetCode](https://leetcode.com/problems/partition-labels/) |
 | 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
 | 853 | Car Fleet | **Medium** | [Code](./Practice/0853-car-fleet) | [LeetCode](https://leetcode.com/problems/car-fleet/) |
 | 876 | Middle of the Linked List | **Easy** | [Code](./Practice/0876-middle-of-the-linked-list) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
