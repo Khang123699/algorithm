@@ -82,6 +82,7 @@ List of completed LeetCode exercises grouped by week.
 
 | ID | Title | Difficulty | Path | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 15 | 3Sum | **Medium** | [Code](./Practice/0015-3sum) | [LeetCode](https://leetcode.com/problems/3sum/) |
 | 24 | Swap Nodes in Pairs | **Medium** | [Code](./Practice/0024-swap-nodes-in-pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
 | 26 | Remove Duplicates from Sorted Array | **Easy** | [Code](./Practice/0026-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 33 | Search in Rotated Sorted Array | **Medium** | [Code](./Practice/0033-search-in-rotated-sorted-array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
