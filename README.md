@@ -118,6 +118,7 @@ List of completed LeetCode exercises grouped by week.
 | 1021 | Remove Outermost Parentheses | **Easy** | [Code](./Practice/1021-remove-outermost-parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) |
 | 1370 | Increasing Decreasing String | **Easy** | [Code](./Practice/1370-increasing-decreasing-string) | [LeetCode](https://leetcode.com/problems/increasing-decreasing-string/) |
 | 1381 | Design a Stack With Increment Operation | **Medium** | [Code](./Practice/1381-design-a-stack-with-increment-operation) | [LeetCode](https://leetcode.com/problems/design-a-stack-with-increment-operation/) |
+| 1721 | Swapping Nodes in a Linked List | **Medium** | [Code](./Practice/1721-swapping-nodes-in-a-linked-list) | [LeetCode](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) |
 | 1974 | Minimum Time to Type Word Using Special Typewriter | **Easy** | [Code](./Practice/1974-minimum-time-to-type-word-using-special-typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |
 | 2064 | Minimized Maximum of Products Distributed to Any Store | **Medium** | [Code](./Practice/2064-minimized-maximum-of-products-distributed-to-any-store) | [LeetCode](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) |
 | 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
