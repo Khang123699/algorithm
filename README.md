@@ -153,9 +153,26 @@ List of completed LeetCode exercises grouped by week.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0763-partition-labels](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0763-partition-labels/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0324-wiggle-sort-ii/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0324-wiggle-sort-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0324-wiggle-sort-ii/) | Medium |
 <!---LeetCode Topics End-->
