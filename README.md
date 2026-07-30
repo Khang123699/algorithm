@@ -131,3 +131,19 @@ List of completed LeetCode exercises grouped by week.
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
+<!---LeetCode Topics End-->
