@@ -146,4 +146,16 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0016-3sum-closest/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0016-3sum-closest/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
