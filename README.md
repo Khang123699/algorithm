@@ -142,6 +142,7 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +159,17 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0016-3sum-closest/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->
