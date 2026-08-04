@@ -153,6 +153,7 @@ List of completed LeetCode exercises grouped by week.
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0016-3sum-closest/) | Medium |
 | [0877-stone-game](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0877-stone-game/) | Medium |
+| [3731-find-missing-elements](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,10 +163,12 @@ List of completed LeetCode exercises grouped by week.
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0016-3sum-closest/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
