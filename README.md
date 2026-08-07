@@ -137,11 +137,13 @@ List of completed LeetCode exercises grouped by week.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
 | [0877-stone-game](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0877-stone-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Simulation
@@ -167,6 +169,7 @@ List of completed LeetCode exercises grouped by week.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0013-roman-to-integer/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
