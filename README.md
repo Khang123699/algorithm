@@ -128,72 +128,11 @@ List of completed LeetCode exercises grouped by week.
 | 2226 | Maximum Candies Allocated to K Children | **Medium** | [Code](./Practice/2226-maximum-candies-allocated-to-k-children) | [LeetCode](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) |
 | 2498 | Frog Jump II | **Medium** | [Code](./Practice/2498-frog-jump-ii) | [LeetCode](https://leetcode.com/problems/frog-jump-ii/) |
 | 2594 | Minimum Time to Repair Cars | **Medium** | [Code](./Practice/2594-minimum-time-to-repair-cars) | [LeetCode](https://leetcode.com/problems/minimum-time-to-repair-cars/) |
-
-
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0013-roman-to-integer](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0013-roman-to-integer/) | Easy |
-| [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
-| [0877-stone-game](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0877-stone-game/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0013-roman-to-integer](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0013-roman-to-integer/) | Easy |
-| [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0043-multiply-strings](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0043-multiply-strings/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0016-3sum-closest](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0016-3sum-closest/) | Medium |
-| [0877-stone-game](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0877-stone-game/) | Medium |
-| [3731-find-missing-elements](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3731-find-missing-elements/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0016-3sum-closest](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0016-3sum-closest/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0016-3sum-closest](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0016-3sum-closest/) | Medium |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
-| [3731-find-missing-elements](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3731-find-missing-elements/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0013-roman-to-integer](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0013-roman-to-integer/) | Easy |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
-| [3731-find-missing-elements](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3731-find-missing-elements/) | Easy |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0877-stone-game](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0877-stone-game/) | Medium |
-## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0877-stone-game](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0877-stone-game/) | Medium |
-## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0877-stone-game](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0877-stone-game/) | Medium |
-## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0877-stone-game](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0877-stone-game/) | Medium |
-<!---LeetCode Topics End-->
+| 13 | Roman to Integer | **Easy** | [Code](./Practice/0013-roman-to-integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer) |
+| 16 | 3Sum Closest | **Medium** | [Code](./Practice/0016-3sum-closest) | [LeetCode](https://leetcode.com/problems/3sum-closest) |
+| 43 | Multiply Strings | **Medium** | [Code](./Practice/0043-multiply-strings) | [LeetCode](https://leetcode.com/problems/multiply-strings) |
+| 486 | Predict the Winner | **Medium** | [Code](./Practice/0486-predict-the-winner) | [LeetCode](https://leetcode.com/problems/predict-the-winner) |
+| 877 | Stone Game | **Medium** | [Code](./Practice/0877-stone-game) | [LeetCode](https://leetcode.com/problems/stone-game) |
+| 3014 | Minimum Number of Pushes to Type Word I | **Easy** | [Code](./Practice/3014-minimum-number-of-pushes-to-type-word-i) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
+| 3016 | Minimum Number of Pushes to Type Word II | **Medium** | [Code](./Practice/3016-minimum-number-of-pushes-to-type-word-ii) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) |
+| 3731 | Find Missing Elements | **Easy** | [Code](./Practice/3731-find-missing-elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements) |
