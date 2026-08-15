@@ -136,3 +136,15 @@ List of completed LeetCode exercises grouped by week.
 | 3014 | Minimum Number of Pushes to Type Word I | **Easy** | [Code](./Practice/3014-minimum-number-of-pushes-to-type-word-i) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
 | 3016 | Minimum Number of Pushes to Type Word II | **Medium** | [Code](./Practice/3016-minimum-number-of-pushes-to-type-word-ii) | [LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii) |
 | 3731 | Find Missing Elements | **Easy** | [Code](./Practice/3731-find-missing-elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khang123699/algorithm/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khang123699/algorithm/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+<!---LeetCode Topics End-->
