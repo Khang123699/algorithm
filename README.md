@@ -142,9 +142,38 @@ List of completed LeetCode exercises grouped by week.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khang123699/algorithm/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khang123699/algorithm/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
