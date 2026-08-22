@@ -153,6 +153,7 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khang123699/algorithm/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
