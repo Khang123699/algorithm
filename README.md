@@ -160,6 +160,7 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,12 +192,18 @@ List of completed LeetCode exercises grouped by week.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khang123699/algorithm/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khang123699/algorithm/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khang123699/algorithm/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khang123699/algorithm/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khang123699/algorithm/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 <!---LeetCode Topics End-->
