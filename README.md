@@ -155,11 +155,13 @@ List of completed LeetCode exercises grouped by week.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/Khang123699/algorithm/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khang123699/algorithm/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/Khang123699/algorithm/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Minimax
@@ -174,6 +176,7 @@ List of completed LeetCode exercises grouped by week.
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/Khang123699/algorithm/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -197,6 +200,7 @@ List of completed LeetCode exercises grouped by week.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/Khang123699/algorithm/tree/main/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khang123699/algorithm/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sliding Window
