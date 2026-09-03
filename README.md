@@ -149,6 +149,7 @@ List of completed LeetCode exercises grouped by week.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khang123699/algorithm/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Khang123699/algorithm/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Khang123699/algorithm/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Khang123699/algorithm/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ List of completed LeetCode exercises grouped by week.
 | [1927-sum-game](https://github.com/Khang123699/algorithm/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khang123699/algorithm/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Khang123699/algorithm/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
