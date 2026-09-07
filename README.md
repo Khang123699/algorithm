@@ -206,6 +206,7 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Khang123699/algorithm/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/Khang123699/algorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1927-sum-game](https://github.com/Khang123699/algorithm/tree/main/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khang123699/algorithm/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -237,4 +238,5 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Khang123699/algorithm/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/Khang123699/algorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 <!---LeetCode Topics End-->
