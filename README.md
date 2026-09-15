@@ -164,6 +164,7 @@ List of completed LeetCode exercises grouped by week.
 | [0836-rectangle-overlap](https://github.com/Khang123699/algorithm/tree/main/0836-rectangle-overlap/) | Easy |
 | [1927-sum-game](https://github.com/Khang123699/algorithm/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Khang123699/algorithm/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khang123699/algorithm/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Khang123699/algorithm/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Khang123699/algorithm/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -224,6 +225,7 @@ List of completed LeetCode exercises grouped by week.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Khang123699/algorithm/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Khang123699/algorithm/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Union-Find
