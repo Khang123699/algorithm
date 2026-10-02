@@ -218,6 +218,7 @@ List of completed LeetCode exercises grouped by week.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Khang123699/algorithm/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Khang123699/algorithm/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Khang123699/algorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khang123699/algorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -256,6 +257,7 @@ List of completed LeetCode exercises grouped by week.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Khang123699/algorithm/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Khang123699/algorithm/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/Khang123699/algorithm/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Recursion
@@ -273,5 +275,10 @@ List of completed LeetCode exercises grouped by week.
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Khang123699/algorithm/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khang123699/algorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Khang123699/algorithm/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
