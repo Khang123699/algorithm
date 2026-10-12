@@ -145,6 +145,7 @@ List of completed LeetCode exercises grouped by week.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Khang123699/algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Khang123699/algorithm/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Khang123699/algorithm/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khang123699/algorithm/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khang123699/algorithm/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Khang123699/algorithm/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -234,6 +235,7 @@ List of completed LeetCode exercises grouped by week.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Khang123699/algorithm/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Khang123699/algorithm/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Khang123699/algorithm/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Khang123699/algorithm/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
