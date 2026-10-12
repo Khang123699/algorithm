@@ -142,6 +142,7 @@ List of completed LeetCode exercises grouped by week.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Khang123699/algorithm/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Khang123699/algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Khang123699/algorithm/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
