@@ -145,6 +145,7 @@ List of completed LeetCode exercises grouped by week.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Khang123699/algorithm/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Khang123699/algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Khang123699/algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Khang123699/algorithm/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Khang123699/algorithm/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khang123699/algorithm/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -251,6 +252,7 @@ List of completed LeetCode exercises grouped by week.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Khang123699/algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khang123699/algorithm/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -296,4 +298,8 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khang123699/algorithm/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Khang123699/algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
