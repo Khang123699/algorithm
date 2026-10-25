@@ -147,6 +147,7 @@ List of completed LeetCode exercises grouped by week.
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Khang123699/algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Khang123699/algorithm/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Khang123699/algorithm/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Khang123699/algorithm/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khang123699/algorithm/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khang123699/algorithm/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -266,6 +267,7 @@ List of completed LeetCode exercises grouped by week.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Khang123699/algorithm/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Khang123699/algorithm/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Khang123699/algorithm/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Dynamic Programming
