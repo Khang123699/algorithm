@@ -142,6 +142,7 @@ List of completed LeetCode exercises grouped by week.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Khang123699/algorithm/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Khang123699/algorithm/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Khang123699/algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
@@ -254,6 +255,7 @@ List of completed LeetCode exercises grouped by week.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Khang123699/algorithm/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Khang123699/algorithm/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -309,4 +311,16 @@ List of completed LeetCode exercises grouped by week.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Khang123699/algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Khang123699/algorithm/tree/main/1254-number-of-closed-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Khang123699/algorithm/tree/main/1254-number-of-closed-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Khang123699/algorithm/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
