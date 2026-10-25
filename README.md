@@ -170,6 +170,7 @@ List of completed LeetCode exercises grouped by week.
 | [0836-rectangle-overlap](https://github.com/Khang123699/algorithm/tree/main/0836-rectangle-overlap/) | Easy |
 | [1927-sum-game](https://github.com/Khang123699/algorithm/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Khang123699/algorithm/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Khang123699/algorithm/tree/main/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Khang123699/algorithm/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Khang123699/algorithm/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Khang123699/algorithm/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -230,6 +231,7 @@ List of completed LeetCode exercises grouped by week.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Khang123699/algorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Khang123699/algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Khang123699/algorithm/tree/main/1927-sum-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Khang123699/algorithm/tree/main/2409-count-days-spent-together/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Khang123699/algorithm/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Khang123699/algorithm/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Khang123699/algorithm/tree/main/3498-reverse-degree-of-a-string/) | Easy |
